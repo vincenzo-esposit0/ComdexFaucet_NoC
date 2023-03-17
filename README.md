@@ -1,15 +1,17 @@
 # <p align="center"> ComdexFaucet by NodeOf Cosmonauts </p>
 
 <p align="center">
-![2](https://user-images.githubusercontent.com/72707004/225858558-ceadc077-c888-4330-9b1f-4af44282e10e.png)
+<img width="851" alt="Screenshot 2023-03-17 alle 10 01 11" src="https://user-images.githubusercontent.com/72707004/225859538-57916178-6655-41ba-ba13-420c90b9a384.png">
+<br>
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/cosmos_node?style=social">
 </p>
 
 ## Table of Contents
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
-3. [Installation](#installation)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
+3. [Collaboration](#collaboration)
+4. [FAQs](#faqs)
+
 ### General Info
 ***
 This application has been designed to provide users with an option to obtain Comdex crumbs, a cryptocurrency, to pay for their transactions. The user enters their CMDX address and receives Comdex crumbs every day.
@@ -26,22 +28,12 @@ A list of technologies used within the project:
 * [HTML5](https://example.com): Version 5.1
 * [CSS](https://example.com): Version 5.0
 * [Other](https://example.com): Will be provided later
-## Installation
-***
-A little intro about the installation.
-```
-$ git clone https://example.com
-$ cd ../path/to/the/file
-$ npm install
-$ npm start
-```
-Side information: To use the application in a special environment use ```lorem ipsum``` to start
+
 ## Collaboration
 ***
-Give instructions on how to collaborate with your project.
-> Maybe you want to write a quote in this part. 
-> It should go over several rows?
-> This is how you do it.
+To collaborate on the project, please contact the following email.
+> nodocro@gmail.com
+
 ## FAQs
 ***
 A list of frequently asked questions
