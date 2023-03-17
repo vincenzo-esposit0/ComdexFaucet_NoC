@@ -38,17 +38,17 @@ To collaborate on the project, please contact the following email.
 ***
 A list of frequently asked questions
 
-1. **What do I need to do to access the platform and receive Comdex crumbs?**
+1. **What do I need to do to access the platform and receive Comdex crumbs?**<br>
 A: To access the platform, you need to visit the website or application provided by the NodeOf Cosmonauts team and enter your CMDX address.
 
-2. **How much Comdex will I receive each day?**
+2. **How much Comdex will I receive each day?**<br>
 A: The amount of Comdex you receive each day depends on the calculation made by the platform. However, Comdex crumbs are usually small amounts of the cryptocurrency.
 
-3. **Can I use Comdex crumbs to pay for all transactions?**
+3. **Can I use Comdex crumbs to pay for all transactions?**<br>
 A: Yes, Comdex crumbs can be used to pay for any transaction on the Comdex chain.
 
-4. **What if I don't receive my Comdex crumbs?**
+4. **What if I don't receive my Comdex crumbs?**<br>
 A: If you encounter any issues with receiving your Comdex crumbs, you can contact the platform's support team to resolve the problem.
 
-5. **Is it safe to use this platform to receive Comdex?**
+5. **Is it safe to use this platform to receive Comdex?**<br>
 A: The platform has been developed by the NodeOf Cosmonauts team, which specializes in developing blockchain solutions. Therefore, using the platform to receive Comdex is safe and reliable.
